@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-[Hosted link](https://RajkumarRj.github.io/textTOImage)
+[Hosted link](https://RajkumarRj.github.io/textToImage)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
